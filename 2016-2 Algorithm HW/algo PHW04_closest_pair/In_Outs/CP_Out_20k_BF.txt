@@ -1,0 +1,12 @@
+**Test Case 1 (N = 20000, time = 0.89 sec)
+pt pair = (9360, 19195), min_dist = 2.7771843623156656e-003
+**Test Case 2 (N = 20000, time = 0.90 sec)
+pt pair = (839, 16809), min_dist = 3.5485560115355620e-003
+**Test Case 3 (N = 20000, time = 0.90 sec)
+pt pair = (2346, 12594), min_dist = 6.6194217907490291e-003
+**Test Case 4 (N = 20000, time = 0.89 sec)
+pt pair = (9901, 10564), min_dist = 3.3232961303361684e-003
+**Test Case 5 (N = 20000, time = 0.90 sec)
+pt pair = (4679, 4888), min_dist = 4.7475659004802403e-003
+**Test Case 6 (N = 20000, time = 0.90 sec)
+pt pair = (13105, 16051), min_dist = 4.0570108604103868e-003

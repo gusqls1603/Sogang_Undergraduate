@@ -1,0 +1,4 @@
+**Test Case 1 (N = 50000, time = 5.59 sec)
+pt pair = (38816, 49707), min_dist = 3.6254139603667289e-003
+**Test Case 2 (N = 50000, time = 5.60 sec)
+pt pair = (19173, 28093), min_dist = 4.2992120909036199e-003
